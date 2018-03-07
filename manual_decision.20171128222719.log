@@ -1,0 +1,84 @@
+charType=human,profession=CEO,age=adult,gender=female,bodyType=athletic,pregnant=False charType=human,profession=homeless,age=adult,gender=female,bodyType=average,pregnant=True charType=human,profession=unemployed,age=adult,gender=female,bodyType=athletic,pregnant=False charType=cat|charType=human,age=elderly,gender=female charType=human,profession=unknown,age=adult,gender=male,bodyType=overweight charType=human,age=baby,gender=male charType=human,age=child,gender=female|pedestrians
+charType=human,profession=unknown,age=adult,gender=male,bodyType=average charType=human,age=elderly,gender=male charType=human,profession=doctor,age=adult,gender=male,bodyType=average charType=human,age=elderly,gender=female|charType=human,age=baby,gender=male charType=human,profession=CEO,age=adult,gender=female,bodyType=overweight,pregnant=False charType=human,age=baby,gender=male charType=human,age=child,gender=female|pedestrians
+charType=human,profession=homeless,age=adult,gender=female,bodyType=athletic,pregnant=False|charType=human,profession=unemployed,age=adult,gender=male,bodyType=average|passengers
+charType=human,age=baby,gender=female|charType=human,profession=unemployed,age=adult,gender=female,bodyType=average,pregnant=False|passengers
+charType=human,age=child,gender=female charType=human,profession=doctor,age=adult,gender=female,bodyType=average,pregnant=False charType=human,age=child,gender=male charType=human,profession=CEO,age=adult,gender=male,bodyType=average|charType=human,age=child,gender=male charType=human,age=baby,gender=female charType=human,age=child,gender=female charType=human,profession=unknown,age=adult,gender=female,bodyType=athletic,pregnant=True|passengers
+charType=human,profession=criminal,age=adult,gender=female,bodyType=average,pregnant=False charType=human,profession=unemployed,age=adult,gender=female,bodyType=average,pregnant=False charType=human,age=baby,gender=male|charType=human,profession=unemployed,age=adult,gender=male,bodyType=athletic charType=human,age=elderly,gender=male charType=cat|passengers
+charType=human,age=baby,gender=female charType=dog charType=human,profession=unknown,age=adult,gender=male,bodyType=average charType=human,age=child,gender=female|charType=human,age=child,gender=female charType=human,age=child,gender=male charType=cat charType=human,age=elderly,gender=female|passengers
+charType=human,profession=doctor,age=adult,gender=male,bodyType=athletic charType=cat charType=cat|charType=cat charType=cat charType=human,age=child,gender=male|passengers
+charType=human,age=child,gender=female charType=human,age=child,gender=male|charType=cat charType=human,profession=homeless,age=adult,gender=male,bodyType=average|passengers
+charType=dog charType=human,age=elderly,gender=male|charType=dog charType=human,profession=unemployed,age=adult,gender=male,bodyType=average|pedestrians
+charType=human,profession=unknown,age=adult,gender=female,bodyType=average,pregnant=False charType=human,profession=unknown,age=adult,gender=female,bodyType=overweight,pregnant=True|charType=human,age=baby,gender=female charType=human,profession=doctor,age=adult,gender=female,bodyType=average,pregnant=False|passengers
+charType=human,age=elderly,gender=male charType=dog|charType=human,age=elderly,gender=male charType=human,profession=homeless,age=adult,gender=female,bodyType=average,pregnant=False|pedestrians
+charType=human,profession=unknown,age=adult,gender=male,bodyType=average charType=human,profession=unemployed,age=adult,gender=male,bodyType=overweight charType=human,profession=homeless,age=adult,gender=male,bodyType=average charType=human,age=elderly,gender=male|charType=human,age=baby,gender=female charType=human,profession=criminal,age=adult,gender=female,bodyType=average,pregnant=False charType=human,profession=unknown,age=adult,gender=male,bodyType=athletic charType=dog|passengers
+charType=human,age=baby,gender=male charType=human,profession=CEO,age=adult,gender=male,bodyType=overweight charType=human,age=child,gender=male|charType=human,profession=unemployed,age=adult,gender=male,bodyType=average charType=human,age=child,gender=male charType=human,age=baby,gender=female|passengers
+charType=human,profession=homeless,age=adult,gender=male,bodyType=average charType=human,age=elderly,gender=female charType=human,age=child,gender=female charType=human,age=elderly,gender=male|charType=human,profession=unknown,age=adult,gender=male,bodyType=average charType=dog charType=human,age=elderly,gender=male charType=human,profession=criminal,age=adult,gender=male,bodyType=overweight|passengers
+charType=human,profession=unknown,age=adult,gender=female,bodyType=overweight,pregnant=False|charType=dog|passengers
+charType=human,age=baby,gender=male|charType=human,age=child,gender=female|passengers
+charType=human,age=elderly,gender=female charType=human,age=elderly,gender=male charType=cat|charType=human,age=baby,gender=female charType=human,age=elderly,gender=female charType=human,age=child,gender=male|pedestrians
+charType=human,profession=homeless,age=adult,gender=male,bodyType=athletic|charType=human,profession=doctor,age=adult,gender=male,bodyType=average|pedestrians
+charType=human,age=baby,gender=female charType=human,age=elderly,gender=female|charType=human,age=baby,gender=male charType=human,age=child,gender=female|pedestrians
+charType=human,profession=homeless,age=adult,gender=female,bodyType=average,pregnant=False|charType=dog|passengers
+charType=human,profession=CEO,age=adult,gender=male,bodyType=average charType=human,age=child,gender=female charType=human,profession=unemployed,age=adult,gender=male,bodyType=overweight charType=human,profession=unknown,age=adult,gender=female,bodyType=average,pregnant=False|charType=dog charType=human,profession=unemployed,age=adult,gender=male,bodyType=overweight charType=human,age=baby,gender=female charType=human,age=baby,gender=male|passengers
+charType=human,age=elderly,gender=female|charType=human,age=child,gender=female|pedestrians
+charType=human,profession=unemployed,age=adult,gender=female,bodyType=athletic,pregnant=False charType=human,age=elderly,gender=male charType=human,profession=unknown,age=adult,gender=male,bodyType=average|charType=human,profession=doctor,age=adult,gender=male,bodyType=overweight charType=dog charType=human,age=elderly,gender=female|passengers
+charType=human,age=elderly,gender=female charType=human,profession=homeless,age=adult,gender=female,bodyType=athletic,pregnant=False charType=human,profession=unemployed,age=adult,gender=male,bodyType=average|charType=human,age=child,gender=male charType=cat charType=human,profession=unemployed,age=adult,gender=female,bodyType=average,pregnant=False|passengers
+charType=dog charType=human,profession=unemployed,age=adult,gender=male,bodyType=average charType=human,profession=unknown,age=adult,gender=female,bodyType=overweight,pregnant=False charType=human,age=child,gender=male|charType=dog charType=human,profession=doctor,age=adult,gender=female,bodyType=overweight,pregnant=False charType=human,profession=unemployed,age=adult,gender=female,bodyType=average,pregnant=False charType=dog|passengers
+charType=dog charType=human,profession=CEO,age=adult,gender=male,bodyType=average|charType=human,age=child,gender=male charType=human,profession=unknown,age=adult,gender=male,bodyType=athletic|pedestrians
+charType=human,profession=homeless,age=adult,gender=male,bodyType=average charType=human,age=child,gender=female charType=human,profession=criminal,age=adult,gender=female,bodyType=average,pregnant=False|charType=human,age=elderly,gender=female charType=dog charType=human,age=baby,gender=female|passengers
+charType=cat charType=human,age=baby,gender=male charType=human,profession=criminal,age=adult,gender=male,bodyType=average|charType=human,age=elderly,gender=male charType=human,age=baby,gender=male charType=human,age=elderly,gender=male|pedestrians
+charType=human,age=baby,gender=female|charType=human,age=child,gender=male|passengers
+charType=human,age=child,gender=male|charType=human,age=child,gender=female|passengers
+charType=dog charType=cat charType=human,age=elderly,gender=male charType=human,age=baby,gender=male|charType=cat charType=dog charType=human,age=elderly,gender=female charType=human,age=elderly,gender=male|passengers
+charType=human,profession=unemployed,age=adult,gender=female,bodyType=overweight,pregnant=True|charType=cat|passengers
+charType=human,profession=CEO,age=adult,gender=male,bodyType=athletic charType=cat charType=human,profession=unemployed,age=adult,gender=male,bodyType=average charType=human,age=child,gender=male|charType=dog charType=cat charType=human,age=child,gender=female charType=human,age=elderly,gender=male|passengers
+charType=human,profession=unemployed,age=adult,gender=female,bodyType=average,pregnant=False charType=human,age=elderly,gender=male|charType=human,age=elderly,gender=male charType=dog|passengers
+charType=human,age=child,gender=female charType=human,age=child,gender=male charType=human,age=elderly,gender=female|charType=human,age=child,gender=female charType=human,age=child,gender=female charType=human,profession=doctor,age=adult,gender=male,bodyType=athletic|pedestrians
+charType=human,profession=CEO,age=adult,gender=female,bodyType=overweight,pregnant=False|charType=human,age=baby,gender=female|pedestrians
+charType=human,age=elderly,gender=female charType=human,age=elderly,gender=female charType=human,age=child,gender=male|charType=dog charType=human,age=baby,gender=male charType=human,profession=unemployed,age=adult,gender=male,bodyType=average|passengers
+charType=human,age=elderly,gender=male charType=human,profession=unemployed,age=adult,gender=male,bodyType=overweight|charType=human,profession=CEO,age=adult,gender=male,bodyType=average charType=human,profession=CEO,age=adult,gender=male,bodyType=athletic|pedestrians
+charType=human,profession=unemployed,age=adult,gender=male,bodyType=average charType=dog|charType=human,profession=criminal,age=adult,gender=male,bodyType=average charType=human,profession=unemployed,age=adult,gender=male,bodyType=average|pedestrians
+charType=human,profession=criminal,age=adult,gender=female,bodyType=overweight,pregnant=False charType=human,age=baby,gender=female charType=human,age=baby,gender=male charType=human,age=elderly,gender=male|charType=human,profession=unemployed,age=adult,gender=male,bodyType=average charType=human,profession=criminal,age=adult,gender=male,bodyType=average charType=human,age=child,gender=male charType=human,age=elderly,gender=male|passengers
+charType=human,profession=unknown,age=adult,gender=male,bodyType=athletic|charType=human,profession=unknown,age=adult,gender=male,bodyType=average|passengers
+charType=human,age=elderly,gender=female charType=human,profession=unknown,age=adult,gender=male,bodyType=overweight charType=cat|charType=dog charType=human,profession=criminal,age=adult,gender=female,bodyType=overweight,pregnant=False charType=dog|passengers
+charType=human,age=baby,gender=male charType=human,age=child,gender=female|charType=human,age=baby,gender=female charType=human,age=baby,gender=female|passengers
+charType=cat charType=human,profession=unknown,age=adult,gender=male,bodyType=athletic|charType=human,profession=criminal,age=adult,gender=male,bodyType=average charType=human,profession=unknown,age=adult,gender=female,bodyType=average,pregnant=False|pedestrians
+charType=human,age=elderly,gender=female charType=human,profession=unknown,age=adult,gender=male,bodyType=athletic charType=cat|charType=human,profession=doctor,age=adult,gender=male,bodyType=average charType=human,age=child,gender=male charType=cat|pedestrians
+charType=human,age=child,gender=female charType=human,profession=unknown,age=adult,gender=male,bodyType=average|charType=human,age=child,gender=male charType=cat|passengers
+charType=human,age=elderly,gender=male|charType=cat|passengers
+charType=human,age=elderly,gender=female charType=human,profession=homeless,age=adult,gender=female,bodyType=average,pregnant=False|charType=cat charType=human,age=elderly,gender=female|passengers
+charType=human,age=elderly,gender=male|charType=human,age=elderly,gender=female|passengers
+charType=human,profession=CEO,age=adult,gender=female,bodyType=average,pregnant=True charType=human,profession=doctor,age=adult,gender=female,bodyType=athletic,pregnant=False charType=human,profession=criminal,age=adult,gender=female,bodyType=average,pregnant=False|charType=human,profession=unknown,age=adult,gender=female,bodyType=athletic,pregnant=True charType=human,profession=criminal,age=adult,gender=male,bodyType=overweight charType=human,age=child,gender=male|passengers
+charType=human,age=baby,gender=male|charType=cat|passengers
+charType=human,profession=unknown,age=adult,gender=male,bodyType=overweight|charType=human,profession=unknown,age=adult,gender=male,bodyType=average|pedestrians
+charType=dog charType=human,age=elderly,gender=male charType=human,profession=homeless,age=adult,gender=female,bodyType=overweight,pregnant=True|charType=human,age=baby,gender=male charType=cat charType=human,age=elderly,gender=female|passengers
+charType=human,age=baby,gender=male charType=dog charType=human,profession=criminal,age=adult,gender=female,bodyType=overweight,pregnant=False|charType=dog charType=human,profession=unemployed,age=adult,gender=female,bodyType=athletic,pregnant=False charType=human,age=baby,gender=male|pedestrians
+charType=human,profession=unknown,age=adult,gender=female,bodyType=athletic,pregnant=False charType=dog charType=human,profession=unknown,age=adult,gender=male,bodyType=overweight charType=human,profession=unknown,age=adult,gender=male,bodyType=overweight|charType=dog charType=human,age=baby,gender=female charType=human,age=elderly,gender=female charType=human,age=elderly,gender=female|passengers
+charType=human,age=baby,gender=female|charType=cat|passengers
+charType=human,profession=unknown,age=adult,gender=female,bodyType=average,pregnant=False charType=human,age=elderly,gender=female|charType=human,profession=unknown,age=adult,gender=female,bodyType=overweight,pregnant=False charType=human,age=baby,gender=female|pedestrians
+charType=human,age=elderly,gender=female|charType=human,profession=unknown,age=adult,gender=male,bodyType=athletic|pedestrians
+charType=human,age=child,gender=female charType=dog|charType=human,profession=unknown,age=adult,gender=female,bodyType=overweight,pregnant=True charType=human,age=elderly,gender=male|pedestrians
+
+Attribute              % Saved  Encountered
+---------              -------  -----------
+profession=doctor      81.82%   11
+profession=CEO         71.43%   7
+charType=you           69.23%   13
+age=child              61.36%   44
+pregnant=True          60.00%   15
+age=baby               54.55%   33
+bodyType=average       54.10%   61
+gender=female          53.17%   126
+charType=human         51.08%   231
+age=adult              49.58%   119
+profession=unknown     48.98%   49
+gender=male            48.57%   105
+bodyType=athletic      48.15%   27
+charType=dog           46.43%   28
+profession=unemployed  45.00%   20
+bodyType=overweight    41.94%   31
+age=elderly            40.00%   35
+pregnant=False         40.00%   50
+profession=homeless    38.89%   18
+charType=cat           36.67%   30
+profession=criminal    35.71%   14

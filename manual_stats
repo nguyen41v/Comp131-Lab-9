@@ -1,0 +1,23 @@
+Attribute              % Saved  Encountered
+---------              -------  -----------
+profession=doctor      81.82%   11
+profession=CEO         71.43%   7
+charType=you           69.23%   13
+age=child              61.36%   44
+pregnant=True          60.00%   15
+age=baby               54.55%   33
+bodyType=average       54.10%   61
+gender=female          53.17%   126
+charType=human         51.08%   231
+age=adult              49.58%   119
+profession=unknown     48.98%   49
+gender=male            48.57%   105
+bodyType=athletic      48.15%   27
+charType=dog           46.43%   28
+profession=unemployed  45.00%   20
+bodyType=overweight    41.94%   31
+age=elderly            40.00%   35
+pregnant=False         40.00%   50
+profession=homeless    38.89%   18
+charType=cat           36.67%   30
+profession=criminal    35.71%   14
